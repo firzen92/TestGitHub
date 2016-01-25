@@ -1,0 +1,2 @@
+This is the new text file to be added into the repository.
+Thanks
